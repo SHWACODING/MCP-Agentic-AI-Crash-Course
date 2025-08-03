@@ -1,0 +1,15 @@
+{
+    "mcpServers" :{
+        "weather": {
+            "command": "uv",
+            "args": [
+                "run",
+                "--with",
+                "mcp[cli]",
+                "mcp",
+                "run",
+                "D:\\Artifical Intelligence World\\5. AI Agents & Agentic AI\\Workshops\\Youtube\\Krish Naik\\MCP Agentic AI Crash Course\\servers\\weather.py"
+            ]
+        }
+    }
+}
